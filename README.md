@@ -1,6 +1,10 @@
-# This team hasn't started yet...
+# CSCI3251 team C
 
-Check back later!
+## Introduction
 
-**Please read `tasks.md` to start your work.**
+## About us
+
+{% for s in site.stu %}
+  <h2>{{ s.name }} - {{ s.user }}</h2>
+{% endfor %}
  
