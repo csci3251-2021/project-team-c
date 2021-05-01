@@ -12,7 +12,7 @@ We will write some simple C code and finally get a status badge and promote our 
 - [x] **Set up README.md**
 - [ ] **Show your team to the Internet**
 - [ ] **Keep checking**
-- [ ] **Write C code**
+- [x] **Write C code**
 - [ ] **Get a status badge**
 - [ ] **Promote your repo** 
 
