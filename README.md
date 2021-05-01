@@ -20,7 +20,6 @@ We will write some simple C code and finally get a status badge and promote our 
 
 
 ## Contributors 🧑‍💼 👩‍💼
-<h2>Contributors</h2>
 
 {% for s in site.stu %}
   <img src="{{ s.image }}">
