@@ -21,3 +21,10 @@ We will write some simple C code and finally get a status badge and promote our 
 
 ## Contributors 🧑‍💼 👩‍💼
 
+{% for s in site.stu %}
+  <img src="{{ s.image }}">
+  <h2>{{ s.name }} - {{ s.user }}</h2>
+  <h2>{{ s.content | markdownify }}</h2>
+{% endfor %}
+ 
+
