@@ -26,5 +26,5 @@ We will write some simple C code and finally get a status badge and promote our 
   <h2>{{ s.name }} - {{ s.user }}</h2>
   <h2>{{ s.content | markdownify }}</h2>
 {% endfor %}
- 
+ Last updated: {{ site.time }}
 
