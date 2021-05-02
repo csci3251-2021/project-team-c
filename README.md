@@ -17,6 +17,7 @@ We will write some simple C code and finally get a status badge and promote our 
 - [ ] **Promote your repo** 
 
 ## Code 💻
+#include code.c
 
 
 ## Contributors 🧑‍💼 👩‍💼
