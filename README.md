@@ -1,3 +1,4 @@
+[![YourActionName Actions Status](https://github.com/csci3251-2021/project-team-c/workflows/milestones/badge.svg)](https://github.com/csci3251-2021/project-team-c/actions)
 # Welcome to the Project Team C 🙌
 
 ## Introduction 📑
@@ -17,6 +18,13 @@ We will write some simple C code and finally get a status badge and promote our 
 - [ ] **Promote your repo** 
 
 ## Code 💻
+```C
+#include <stdio.h>
+
+int main(void) {
+    printf("Hello world \n");
+}
+```
 
 
 ## Contributors 🧑‍💼 👩‍💼
@@ -26,5 +34,7 @@ We will write some simple C code and finally get a status badge and promote our 
   <h2>{{ s.name }} - {{ s.user }}</h2>
   <h2>{{ s.content | markdownify }}</h2>
 {% endfor %}
+
+## Status Badgets
  
 
