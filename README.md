@@ -11,7 +11,7 @@ We will write some simple C code and finally get a status badge and promote our 
 - [x] **Project Board**
 - [x] **Set up README.md**
 - [ ] **Show your team to the Internet**
-- [ ] **Keep checking**
+- [x] **Keep checking**
 - [x] **Write C code**
 - [ ] **Get a status badge**
 - [ ] **Promote your repo** 
