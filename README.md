@@ -17,7 +17,7 @@ We will write some simple C code and finally get a status badge and promote our 
 - [ ] **Promote your repo** 
 
 ## Code 💻
-
+[![Milestone](https://github.com/csci3251-2021/project-team-c/workflows/MileStone/badge.svg)](https://github.com/csci3251-2021/project-team-c/actions)
 
 ## Contributors 🧑‍💼 👩‍💼
 
