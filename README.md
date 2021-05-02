@@ -27,4 +27,5 @@ We will write some simple C code and finally get a status badge and promote our 
   <h2>{{ s.content | markdownify }}</h2>
 {% endfor %}
  
-
+srcLastUpdated := r.GetUpdatedAt().Time
+	fmt.Printf("Last Updated:%v\n", srcLastUpdated)
